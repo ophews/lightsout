@@ -7,5 +7,5 @@ __Useful resources;__
 - [Wiki](https://github.com/ophews/lightsout/wiki) <sub>More coming soon.<sub>
   
   
-[<sup>Public alpha release on August 14th.</sup>](https://github.com/ophews/lightsout/milestone/1)
+[<sup>Public alpha release on September 18th.</sup>](https://github.com/ophews/lightsout/milestone/1)
 <sup>Current version: vA0.8.2</sup>
