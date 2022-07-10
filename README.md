@@ -1,5 +1,5 @@
 ## Update log
-Welcome to the official Github page of Lights Out :shipit:
+**Welcome to the official Github page of Lights Out :shipit:**
 
 __Useful resources;__
 - [Issues](https://github.com/ophews/lightsout/issues/1)
@@ -8,3 +8,4 @@ __Useful resources;__
   
   
 [<sup>Public alpha release on August 14th.</sup>](https://github.com/ophews/lightsout/milestone/1)
+<sup>Current version: vA0.8.2</sup>
