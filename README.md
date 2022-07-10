@@ -9,3 +9,5 @@ __Useful resources;__
   
 [<sup>Public alpha release on November 18th.</sup>](https://github.com/ophews/lightsout/milestone/1)
 <sup>Current version: vA0.8.2</sup>
+
+**Contact us via. Email; cherepmedia@gmail.com or any socialmedia [@cherepmedia](https://twitter.com/cherepmedia)!**
